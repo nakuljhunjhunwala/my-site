@@ -1,0 +1,53 @@
+.headerContainer {
+  padding: 17px;
+  display: flex;
+  justify-content: space-between;
+  max-height: 60px;
+}
+
+.logoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.logo {
+  height: auto;
+  width: 40px;
+}
+
+.logoText {
+  font-weight: 800;
+  line-height: 21px;
+  margin: 0 15px;
+  font-size: 21px;
+  color: #330b86;
+}
+
+.profileContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 5px 0 0;
+}
+
+.profileCircle {
+  height: 36px;
+  width: 36px;
+  background-color: #a19e9e;
+  border-radius: 20px;
+}
+
+.userName {
+  margin: 0 10px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 18.75px;
+  letter-spacing: 0.2;
+}
+
+.icon {
+  color: #686464;
+  margin: 0 5px;
+}

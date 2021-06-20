@@ -1,0 +1,25 @@
+.button {
+  all: unset;
+  width: 160px;
+  height: 30px;
+  border-radius: 20px;
+  outline: inherit;
+}
+
+.green {
+  color: #27ae60;
+  border: 1px solid #27ae60;
+  background-color: rgba(39, 174, 96, 0.3);
+}
+
+.red {
+  color: #ff0808;
+  border: 1px solid #ff0808;
+  background-color: rgba(255, 8, 8, 0.3);
+}
+
+.grey {
+  color: #bdbdbd;
+  border: 1px solid #bdbdbd;
+  background-color: #f2f2f2;
+}

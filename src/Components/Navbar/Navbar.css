@@ -1,0 +1,7 @@
+.navbarContainer {
+  background-color: #f7f7f7;
+  flex: 0.3;
+  min-width: 200px;
+  max-width: 260px;
+  min-height: 90vh;
+}

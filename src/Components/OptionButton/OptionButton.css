@@ -1,0 +1,32 @@
+.optionButton {
+  display: flex;
+  align-items: center;
+  height: 58px;
+  width: 260px;
+}
+
+.navbarIcon svg {
+  color: #828282;
+  font-size: 30px;
+  margin: 15px;
+}
+
+.optionText {
+  color: #828282;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.active {
+  background-color: #e1d8f1;
+  box-shadow: 5px 0px 0px 0px rgba(103, 58, 183, 1) inset;
+}
+
+.activeText {
+  color: #673ab7;
+}
+
+.activeIcon svg {
+  color: #673ab7;
+}
